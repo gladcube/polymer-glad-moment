@@ -1,0 +1,2 @@
+Polymer.GladMoment = require \moment
+
